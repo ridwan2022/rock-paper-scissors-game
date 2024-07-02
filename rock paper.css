@@ -9,6 +9,13 @@
     width: 200px;
     height: 200px;
 }
+.container-3 {
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+    width: 70%;
+}
+
 .flex-box-rps {
     display: flex;
     border: 1px solid black;
